@@ -1,0 +1,3 @@
+/run/media/elhaloua/F852CEBE52CE80BC/Users/c_programs/TCP_socket_Client/build/CMakeFiles/tcp_C_Out.dir
+/run/media/elhaloua/F852CEBE52CE80BC/Users/c_programs/TCP_socket_Client/build/CMakeFiles/edit_cache.dir
+/run/media/elhaloua/F852CEBE52CE80BC/Users/c_programs/TCP_socket_Client/build/CMakeFiles/rebuild_cache.dir
